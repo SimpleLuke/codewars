@@ -6,5 +6,5 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 
 | Ranks  | Challanges |  Code|
 | --- | -- |  -- |
-| 7Kyu      |  Name | [Code](https://git.io/Js28z) |
+| 7Kyu      |  Regex validate PIN code | [Code](https://github.com/SimpleLuke/codewars/tree/main/Regex-validate-PIN-code) |
 
