@@ -13,6 +13,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 7Kyu      |  String ends with?        |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-ends-with)        |
 | 7Kyu      |  Sum of the first nth term of Series| [Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-the-first-nth-term-of-Series)|
 | 7Kyu      |  Find the next perfect square | [Code](https://github.com/SimpleLuke/codewars/tree/main/Find-the-next-perfect-square)|
+| 7Kyu      |  Is this a triangle?       |[Code](https://github.com/SimpleLuke/codewars/tree/main/Is-this-a-triangle)     |
 | 6Kyu      |  Take a Ten Minute Walk    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Take-a-Ten-Minute-Walk)        |
 | 6Kyu      |  Are they the "same"?     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-they-the-same)|
 
