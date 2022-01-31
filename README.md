@@ -11,6 +11,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 8Kyu      |  Return Negative         | [Code](https://github.com/SimpleLuke/codewars/tree/main/Return-Negative)         |
 | 8Kyu      |  Sum without highest and lowest number | [Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-without-highest-and-lowest-number) |
 | 8Kyu      | Calculate average        |[Code](https://github.com/SimpleLuke/codewars/tree/main/Calculate-average)        |
+| 8Kyu      |  Calculate BMI           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Calculate-BMI)            |
 | 7Kyu      |  Regex validate PIN code | [Code](https://github.com/SimpleLuke/codewars/tree/main/Regex-validate-PIN-code) |
 | 7Kyu      |  String ends with?        |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-ends-with)        |
 | 7Kyu      |  Sum of the first nth term of Series| [Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-the-first-nth-term-of-Series)|
