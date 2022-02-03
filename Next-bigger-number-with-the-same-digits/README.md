@@ -21,3 +21,6 @@ nextBigger(num: 9)   // returns nil
 nextBigger(num: 111) // returns nil
 nextBigger(num: 531) // returns nil
 ```
+
+## Solution Summary:
+![Summary sulotion chart](https://pbs.twimg.com/media/FKq-c2oXsAMeHcG?format=jpg&name=medium "Summary sulotion chart")
