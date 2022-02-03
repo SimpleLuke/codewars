@@ -68,4 +68,4 @@ console.log(nextBigger(513)); //531
 console.log(nextBigger(2017)); //2071
 console.log(nextBigger(414)); //441
 console.log(nextBigger(144)); //414
-console.log(nextBigger(59884848459853)); //414
+console.log(nextBigger(59884848459853)); //59884848483559
