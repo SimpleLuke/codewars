@@ -10,9 +10,9 @@ function domainName(url){
 function domainNameReg(url){
     const checkWww = new RegExp('www');
     const checkHttp = new RegExp('http*');
-    const regexHttp = /(\/)([a-zA-Z0-9_-]+)\./ig;
-    const regexWww = /(\.)([a-zA-Z0-9_-]+)\./ig;
-    const regexNon = /(^[a-zA-Z0-9_-]+)/ig;
+    const regexHttp = /(\/)([a-z0-9_-]+)\./ig;
+    const regexWww = /(\.)([a-z0-9_-]+)\./ig;
+    const regexNon = /(^[a-z0-9_-]+)/ig;
     let match;
     if(checkWww.test(url)){
         match = url.match(regexWww)[0].split("");
