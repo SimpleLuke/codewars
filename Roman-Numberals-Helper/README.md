@@ -14,6 +14,7 @@ RomanNumerals.fromRoman('M'); // should return 1000
 ```
 **Help**
 |Symbol|Value|
+| --- | -- |
 |I	|1|
 |IV|	4|
 |V	|5|
