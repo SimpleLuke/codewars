@@ -19,6 +19,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 7Kyu      |  Is this a triangle?       |[Code](https://github.com/SimpleLuke/codewars/tree/main/Is-this-a-triangle)     |
 | 7Kyu      |  Reverse words             |[Code](https://github.com/SimpleLuke/codewars/tree/main/Reverse-words)     |
 | 7Kyu      |  Disemvowel Trolls         |[Code](https://github.com/SimpleLuke/codewars/tree/main/Disemvowel-Trolls)     |
+| 7Kyu      |  Remove the minimum        |[Code](https://github.com/SimpleLuke/codewars/tree/main/Remove-the-minimum)   |
 | 6Kyu      |  Take a Ten Minute Walk    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Take-a-Ten-Minute-Walk)        |
 | 6Kyu      |  Are they the "same"?     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-they-the-same)|
 | 5Kyu      |  Number of trailing zeros of N |[Code](https://github.com/SimpleLuke/codewars/tree/main/Number-of-trailing-zeros-of-N)    |
