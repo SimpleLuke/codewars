@@ -14,6 +14,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 8Kyu      |  Calculate BMI           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Calculate-BMI)            |
 | 8Kyu      |  Invert values           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Invert-values)     |
 | 8Kyu      |  Sum of positive         |[Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-positive)    |
+| 8Kyu      | Find the smallest integer in the array |[Code](https://github.com/SimpleLuke/codewars/tree/main/Find-the-smallest-integer-in-the-array)  |
 | 7Kyu      |  Regex validate PIN code | [Code](https://github.com/SimpleLuke/codewars/tree/main/Regex-validate-PIN-code) |
 | 7Kyu      |  String ends with?        |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-ends-with)        |
 | 7Kyu      |  Sum of the first nth term of Series| [Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-the-first-nth-term-of-Series)|
