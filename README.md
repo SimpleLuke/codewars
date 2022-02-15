@@ -24,6 +24,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 7Kyu      |  Disemvowel Trolls         |[Code](https://github.com/SimpleLuke/codewars/tree/main/Disemvowel-Trolls)     |
 | 7Kyu      |  Remove the minimum        |[Code](https://github.com/SimpleLuke/codewars/tree/main/Remove-the-minimum)   |
 | 7Kyu      |  The hightest profit wins  |[Code](https://github.com/SimpleLuke/codewars/tree/main/The-highest-profit-wins)|
+| 7Kyu      |  Printer Errors            |[Code](https://github.com/SimpleLuke/codewars/tree/main/Printer-Errors)   |
 | 6Kyu      |  Take a Ten Minute Walk    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Take-a-Ten-Minute-Walk)        |
 | 6Kyu      |  Are they the "same"?     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-they-the-same)|
 | 6Kyu      |  Bouncing Balls           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Bouncing-Balls)              |
