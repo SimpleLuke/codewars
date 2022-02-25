@@ -20,6 +20,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 8Kyu      |  DNA to RNA Conversion  |[Code](https://github.com/SimpleLuke/codewars/tree/main/DNA-to-RNA-Conversion)  |
 | 8Kyu       | The Feast of Many Beasts |[Code](https://github.com/SimpleLuke/codewars/tree/main/The-Feast-of-Many-Beasts)  |
 | 8Kyu       | If you can't sleep, just count sheep! |[Code](https://github.com/SimpleLuke/codewars/tree/main/If-you-cant-sleep-just-count-sheep) |
+| 8Kyu      | Count by X    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Count-by-X) |
 | 7Kyu      |  Regex validate PIN code | [Code](https://github.com/SimpleLuke/codewars/tree/main/Regex-validate-PIN-code) |
 | 7Kyu      |  String ends with?        |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-ends-with)        |
 | 7Kyu      |  Sum of the first nth term of Series| [Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-the-first-nth-term-of-Series)|
