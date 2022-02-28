@@ -22,6 +22,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 8Kyu       | If you can't sleep, just count sheep! |[Code](https://github.com/SimpleLuke/codewars/tree/main/If-you-cant-sleep-just-count-sheep) |
 | 8Kyu      | Count by X    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Count-by-X) |
 | 8Kyu      | Are You Playing Banjo  |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-You-Playing-Banjo)  |
+| 8Kyu      | Beginner Series #4 Cockroach |[Code](https://github.com/SimpleLuke/codewars/tree/main/Beginner-Series-%234-Cockroach)  |
 | 7Kyu      |  Regex validate PIN code | [Code](https://github.com/SimpleLuke/codewars/tree/main/Regex-validate-PIN-code) |
 | 7Kyu      |  String ends with?        |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-ends-with)        |
 | 7Kyu      |  Sum of the first nth term of Series| [Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-the-first-nth-term-of-Series)|
