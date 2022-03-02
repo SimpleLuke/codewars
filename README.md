@@ -41,6 +41,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 6Kyu      |  Are they the "same"?     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-they-the-same)|
 | 6Kyu      |  Bouncing Balls           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Bouncing-Balls)              |
 | 6Kyu      |  Your order, please       |[Code](https://github.com/SimpleLuke/codewars/tree/main/Your-order-please)        |
+| 6Kyu      | Sort the odd              |[Code](https://github.com/SimpleLuke/codewars/tree/main/Sort-the-odd)   |
 | 5Kyu      |  Number of trailing zeros of N |[Code](https://github.com/SimpleLuke/codewars/tree/main/Number-of-trailing-zeros-of-N)    |
 | 5Kyu      |  String incrementer   |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-incrementer)   |
 | 5Kyu      |  Extract the domain name from a URL |[Code](https://github.com/SimpleLuke/codewars/tree/main/Extract-the-domain-name-from-a-URL)    |
