@@ -37,6 +37,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 7Kyu      |  Exes and Ohs              |[Code](https://github.com/SimpleLuke/codewars/tree/main/Exes-and-Ohs)  |
 | 7Kyu      |  Binary Addition           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Binary-Addition)   |
 | 7Kyu      | Sum of odd numbers         |[Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-odd-numbers)    |
+| 7Kyu      | Isograms                   |[Code](https://github.com/SimpleLuke/codewars/tree/main/Isograms)       |
 | 6Kyu      |  Take a Ten Minute Walk    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Take-a-Ten-Minute-Walk)        |
 | 6Kyu      |  Are they the "same"?     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-they-the-same)|
 | 6Kyu      |  Bouncing Balls           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Bouncing-Balls)              |
