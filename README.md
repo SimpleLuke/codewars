@@ -53,6 +53,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 5Kyu      |  String incrementer   |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-incrementer)   |
 | 5Kyu      |  Extract the domain name from a URL |[Code](https://github.com/SimpleLuke/codewars/tree/main/Extract-the-domain-name-from-a-URL)    |
 |  5Kyu     | Maximum subarray sum     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Maximum-subarray-sum)       |
+|  5Kyu     | Basic DeNico             |[Code](https://github.com/SimpleLuke/codewars/tree/main/Basic-DeNico)            |
 | 4Kyu      |  Next bigger number with the same digits  |[Code](https://github.com/SimpleLuke/codewars/tree/main/Next-bigger-number-with-the-same-digits)   |
 | 4Kyu      |  Roman Numberals Helpers  |[Code](https://github.com/SimpleLuke/codewars/tree/main/Roman-Numberals-Helper)  |
 
