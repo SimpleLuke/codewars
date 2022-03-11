@@ -43,6 +43,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 7Kyu      | Vowel Count                |[Code](https://github.com/SimpleLuke/codewars/tree/main/Vowel-Count)  |
 | 7Kyu      | Square Every Digit         |[Code](https://github.com/SimpleLuke/codewars/tree/main/Square-Every-Digit)    |
 | 7Kyu      | Describe the shape         |[Code](https://github.com/SimpleLuke/codewars/tree/main/Describe-the-shape)    |
+| 7Kyu      | Least Larger               |[Code](https://github.com/SimpleLuke/codewars/tree/main/Least-Larger)    |
 | 6Kyu      |  Take a Ten Minute Walk    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Take-a-Ten-Minute-Walk)        |
 | 6Kyu      |  Are they the "same"?     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-they-the-same)|
 | 6Kyu      |  Bouncing Balls           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Bouncing-Balls)              |
