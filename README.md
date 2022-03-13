@@ -45,6 +45,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 7Kyu      | Describe the shape         |[Code](https://github.com/SimpleLuke/codewars/tree/main/Describe-the-shape)    |
 | 7Kyu      | Least Larger               |[Code](https://github.com/SimpleLuke/codewars/tree/main/Least-Larger)    |
 | 7Kyu      | Sum of Minimums            |[Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-Minimums)       |
+| 7Kyu      | Substring Fun              |[Code](https://github.com/SimpleLuke/codewars/tree/main/Substring-fun)         |
 | 6Kyu      |  Take a Ten Minute Walk    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Take-a-Ten-Minute-Walk)        |
 | 6Kyu      |  Are they the "same"?     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-they-the-same)|
 | 6Kyu      |  Bouncing Balls           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Bouncing-Balls)              |
