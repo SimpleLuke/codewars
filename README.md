@@ -63,6 +63,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 |  5Kyu     | Basic DeNico             |[Code](https://github.com/SimpleLuke/codewars/tree/main/Basic-DeNico)            |
 |  5Kyu     | Basic Nico Variation     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Basic-Nico-Variation)  |
 | 5Kyu      | Resistor Color Codes Part2 |[Code](https://github.com/SimpleLuke/codewars/tree/main/Resistor-Color-Codes-Part2)  |
+| 5Kyu      | Wrapped Function          |[Code](https://github.com/SimpleLuke/codewars/tree/main/Wrapped-Function)    |
 | 4Kyu      |  Next bigger number with the same digits  |[Code](https://github.com/SimpleLuke/codewars/tree/main/Next-bigger-number-with-the-same-digits)   |
 | 4Kyu      |  Roman Numberals Helpers  |[Code](https://github.com/SimpleLuke/codewars/tree/main/Roman-Numberals-Helper)  |
 
