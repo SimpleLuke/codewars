@@ -67,4 +67,5 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 5Kyu      | Wrapped Function          |[Code](https://github.com/SimpleLuke/codewars/tree/main/Wrapped-Function)    |
 | 4Kyu      |  Next bigger number with the same digits  |[Code](https://github.com/SimpleLuke/codewars/tree/main/Next-bigger-number-with-the-same-digits)   |
 | 4Kyu      |  Roman Numberals Helpers  |[Code](https://github.com/SimpleLuke/codewars/tree/main/Roman-Numberals-Helper)  |
+| 4Kyu      |  One Line Task: Remove Zeros|[Code](https://github.com/SimpleLuke/codewars/tree/main/One-Line-Task-Remove-Zeros)    |
 
