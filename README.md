@@ -26,6 +26,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 8Kyu      | Keep Hydrated!     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Keep-Hydrated)   |
 | 8Kyu      | Opposites Attact   |[Code](https://github.com/SimpleLuke/codewars/tree/main/Opposites-Attract)  |
 | 8Kyu      | USD => CNY         |[Code](https://github.com/SimpleLuke/codewars/tree/main/USD-to-CNY)         |
+| 8Kyu      | Beginner- Lost Without a Map |[Code](https://github.com/SimpleLuke/codewars/tree/main/Beginner-Lost-Without-a-Map) |
 | 7Kyu      |  Regex validate PIN code | [Code](https://github.com/SimpleLuke/codewars/tree/main/Regex-validate-PIN-code) |
 | 7Kyu      |  String ends with?        |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-ends-with)        |
 | 7Kyu      |  Sum of the first nth term of Series| [Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-the-first-nth-term-of-Series)|
