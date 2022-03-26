@@ -52,6 +52,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 7Kyu      | Filter unused digits       |[Code](https://github.com/SimpleLuke/codewars/tree/main/Filter-unused-digits)   |
 | 7Kyu      | Register Color Codes       |[Code](https://github.com/SimpleLuke/codewars/tree/main/Resistor-Color-Codes)      |
 | 7Kyu      | List Filtering             |[Code](https://github.com/SimpleLuke/codewars/tree/main/List-Filtering)        |
+| 7Kyu      | Hightest and Lowest        |[Code](https://github.com/SimpleLuke/codewars/tree/main/Hightes-and-Lowest)  |
 | 6Kyu      |  Take a Ten Minute Walk    |[Code](https://github.com/SimpleLuke/codewars/tree/main/Take-a-Ten-Minute-Walk)        |
 | 6Kyu      |  Are they the "same"?     |[Code](https://github.com/SimpleLuke/codewars/tree/main/Are-they-the-same)|
 | 6Kyu      |  Bouncing Balls           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Bouncing-Balls)              |
