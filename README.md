@@ -62,6 +62,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 6Kyu      | Follow that Spy           |[Code](https://github.com/SimpleLuke/codewars/tree/main/Follow-that-Spy)    |
 | 6Kyu      | Two Sum                   |[Code](https://github.com/SimpleLuke/codewars/tree/main/Two-Sum)            |
 | 6Kyu      | Find the odd int          |[Code](https://github.com/SimpleLuke/codewars/tree/main/Find-the-odd-int)    |
+| 6Kyu      | Multiple of 3 or 5        |[Code](https://github.com/SimpleLuke/codewars/tree/main/Multiples-of-3-or-5)     |
 | 5Kyu      |  Number of trailing zeros of N |[Code](https://github.com/SimpleLuke/codewars/tree/main/Number-of-trailing-zeros-of-N)    |
 | 5Kyu      |  String incrementer   |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-incrementer)   |
 | 5Kyu      |  Extract the domain name from a URL |[Code](https://github.com/SimpleLuke/codewars/tree/main/Extract-the-domain-name-from-a-URL)    |
