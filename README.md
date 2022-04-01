@@ -65,6 +65,7 @@ This repository is a collection of all my solutions I submitted at [codewars.com
 | 6Kyu      | Multiple of 3 or 5        |[Code](https://github.com/SimpleLuke/codewars/tree/main/Multiples-of-3-or-5)     |
 | 6Kyu      | Sum of Digits/Digital Roots |[Code](https://github.com/SimpleLuke/codewars/tree/main/Sum-of-Digits-Digital-Root)    |
 | 6Kyu      | Array.diff                |[Code](https://github.com/SimpleLuke/codewars/tree/main/Array-diff)        |
+| 6Kyu      | Who likes it?             |[Code](https://github.com/SimpleLuke/codewars/tree/main/Who-likes-it)   |
 | 5Kyu      |  Number of trailing zeros of N |[Code](https://github.com/SimpleLuke/codewars/tree/main/Number-of-trailing-zeros-of-N)    |
 | 5Kyu      |  String incrementer   |[Code](https://github.com/SimpleLuke/codewars/tree/main/String-incrementer)   |
 | 5Kyu      |  Extract the domain name from a URL |[Code](https://github.com/SimpleLuke/codewars/tree/main/Extract-the-domain-name-from-a-URL)    |
