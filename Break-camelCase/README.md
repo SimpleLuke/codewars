@@ -1,0 +1,11 @@
+# Description
+
+Complete the solution so that the function will break up camel casing, using a space between words.
+
+_Example_
+
+```
+"camelCasing"  =>  "camel Casing"
+"identifier"   =>  "identifier"
+""             =>  ""
+```
