@@ -7,7 +7,7 @@ function add(a, b) {
     let carry = 0;
     let result = [];
 
-    for (let i = 0; i < maxLen - 1; i++) {
+    for (let i = 0; i < maxLen; i++) {
       const digitA = parseInt(a[a.length - 1 - i]) || 0;
       const digitB = parseInt(b[b.length - 1 - i]) || 0;
       let sum = digitA + digitB + carry;
@@ -18,6 +18,9 @@ function add(a, b) {
         carry = 0;
       }
       result.unshift(sum.toString());
+    }
+    if (carry > 0) {
+      result.unshift("1");
     }
     return result.join("");
   }
